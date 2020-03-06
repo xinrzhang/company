@@ -39,6 +39,21 @@ zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
+<<<<<<< HEAD
+
+----Compny new start
+new start
+new start
+new start
+new start
+new start
+new start
+
+----Compny newer start
+newer start hahaha
+newer start hahaha
+
+=======
 ------
 
 ------learn dev
@@ -58,4 +73,5 @@ niubiniubibniubi
 add again
 add again
 ------
+>>>>>>> 139e3437d7124a47e765c04a38eb6721ab26345b
 

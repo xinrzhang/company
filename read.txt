@@ -26,7 +26,8 @@ xianzaikaishi shi DDEV
 xianzaikaishi shi DDEV
 xianzaikaishi shi DDEV
 
-----Compny DEV
+
+------Compny DEV
 zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
@@ -38,6 +39,7 @@ zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
 zheshi zai DEV neibuzuod
+<<<<<<< HEAD
 
 ----Compny new start
 new start
@@ -51,4 +53,25 @@ new start
 newer start hahaha
 newer start hahaha
 
+=======
+------
+
+------learn dev
+genggai yixi
+genggai yixi
+genggai yixi
+------
+
+------bian jichu
+niubiniubibniubi
+niubiniubibniubi
+niubiniubibniubi
+niubiniubibniubi
+------
+
+------bian jichu
+add again
+add again
+------
+>>>>>>> 139e3437d7124a47e765c04a38eb6721ab26345b
 
